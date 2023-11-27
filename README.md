@@ -1,1 +1,1 @@
-Hello
+The simple program. 
